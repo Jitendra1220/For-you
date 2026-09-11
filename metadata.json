@@ -1,0 +1,6 @@
+{
+  "name": "For You — An Honest Beginning",
+  "description": "A personal, cinematic, and heartfelt interactive letter and trust-rebuilding experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
